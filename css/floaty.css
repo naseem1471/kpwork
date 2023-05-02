@@ -1,0 +1,29 @@
+p {
+    margin: top 0px;
+    margin-bottom: 15px;
+    line-height: 1.4;
+
+    background-color: yellow;
+
+    clear: both;
+}
+
+.red-box {
+    height: 500px;
+    width: 500px;
+    background: rgba(255,0,0,.5);
+
+    float: left;
+}
+
+.blue-box {
+    height: 400px;
+    width: 700px;
+    background: blue;
+}
+
+img {
+    float: left; 
+}
+
+

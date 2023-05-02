@@ -1,0 +1,35 @@
+body {
+    background-color: #eef3eb;
+    color: rgb(26, 71, 195);
+    font-size: 21px
+}
+
+h1 {
+    font-size: 70px;
+    color: #ed6363;
+}
+
+p {
+    color:black;
+}
+
+/* this is the CSS box model */
+
+/* 
+    Margin,
+    Borders,
+    Padding,
+*/
+
+.box {
+    background-color: rgb(5, 78, 98);
+    /*background-image: url(../images/paisley.webp);*/
+    padding: 200px 100px;
+    margin: 100px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #0f0d0d; 
+    background-repeat: repeat;
+    /*width: 500px;*/  
+}
+

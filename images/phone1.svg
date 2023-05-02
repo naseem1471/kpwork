@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg1"
+   sodipodi:docname="phone1.svg"
+   inkscape:export-filename="/home/nathan/Desktop/Angelo Gelmi/PhoneNumber.png"
+   viewBox="0 0 76.726 225.07"
+   sodipodi:version="0.32"
+   inkscape:export-xdpi="11.662649"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-ydpi="11.662649"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs23" />
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     pagecolor="#ffffff"
+     inkscape:zoom="2.992689"
+     inkscape:window-x="-8"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer2"
+     inkscape:cx="71.054012"
+     inkscape:cy="118.6433"
+     inkscape:window-y="-8"
+     inkscape:window-height="1009"
+     inkscape:pageopacity="0.0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-maximized="1"
+     inkscape:rotation="15" />
+  <g
+     id="layer2"
+     style="display:block"
+     inkscape:label="ricalco"
+     inkscape:groupmode="layer"
+     transform="translate(-63.217 -25.177)">
+    <path
+       id="path1105"
+       sodipodi:nodetypes="ccccccccccc"
+       style="fill:#c8ab37;fill-rule:evenodd;stroke-width:0"
+       d="m 114.77021,88.815264 h 14.09423 l 10.70668,-60.24828 H 92.225139 c 0,0 1.690925,-2.294415 0,0 -55.803488,135.984326 -3.94582,217.464196 -3.94582,217.464196 45.661731,1.14625 42.837151,-5.16777 42.837151,-5.16777 -5.06706,-54.50446 -11.26966,-53.35824 -11.26966,-53.35824 -23.675857,-1.14622 -25.930746,-13.20114 -25.930746,-13.20114 l 6.200706,-74.588842 c 6.19879,-11.475958 14.65344,-10.90284 14.65344,-10.90284 z" />
+  </g>
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:date>2009-04-09T20:51:55</dc:date>
+        <dc:description>A Phone silhouette or icon. Original by Angelo Gelmi. http://openclipart.org/SOMbanners/people/agelmi Remixed by Chovynz.</dc:description>
+        <dc:source>https://openclipart.org/detail/24350/phone-icon-by-anonymous</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Anonymous</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>phone</rdf:li>
+            <rdf:li>silhouette</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

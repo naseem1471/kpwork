@@ -1,0 +1,46 @@
+body{
+   background-color: #00ccff;
+   color: white;
+   font-size: 21px;
+}
+
+
+p {
+    color: blue;
+}
+
+h3 {
+    color: pink
+}
+
+p1 {
+    color: #be1a1a;
+}
+
+div { 
+    background: rgb(235, 26, 61);
+    width: 500px;
+    height: 500px;
+}
+
+span {
+    color: yellow;
+    font-size: 40px;
+}
+
+.white {
+    color:antiquewhite;
+    font-size: 14px;
+}
+
+.top-section { 
+    background:pink;
+}
+
+.bottom-section { 
+    background: green;
+}
+
+.important{
+    background: white;
+}
